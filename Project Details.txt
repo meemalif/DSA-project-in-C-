@@ -1,0 +1,12 @@
+Made By :
+Muhammad Abubakar
+CMS : 375903
+Muneeb Ahmad
+CMS : 371994
+
+
+
+In this project we have implemented AVL Trees, Hashing (which shortens the URL of the player), linkedlist, parsing etc.
+We have used the dataset of football players which contains more than 15,000 entries.
+We have implemented many functions like printing players with same jersey number, searching the player with id, opening the player website using his name and many more, you can check them in the program
+We tried to implement hashing on the basis of our knowledge, it was converting playerURL to short URL but we were not able backtrack the exact same URL till now. And very limited resources related to this are available on the internet.
